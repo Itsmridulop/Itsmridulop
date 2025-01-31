@@ -15,8 +15,8 @@ Hi, I'm **Mridul Mishra**, a **MERN stack developer** who is very much into buil
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Itsmridulop&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itsmridulop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Itsmridulop&icon=0&color=0)](https://visitcount.itsvg.in)
